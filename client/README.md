@@ -1,3 +1,10 @@
+# Compatible Node.js version
+```ruby
+node v12.22.7
+npm 6.14.15
+@angular/cli v6.2.9
+```
+
 # Client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
