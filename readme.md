@@ -1,4 +1,4 @@
-In order to make this ages project running, following versions of JS and Node.js are required:
+In order to make this aged project running, following versions of Node.js is required:
 
 # Compatible Node.js version
 
